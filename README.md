@@ -1,6 +1,10 @@
 # IMG_7082
 Same image transfered from my iPhone via different means
 
+Full discussion of why I have created this repo is here:
+
+https://blog.night-shade.org.uk/2015/06/dropbox-iphone-camera-upload-changes-photos/
+
 Filename            | Description
 :-------------------|:---
 *AFC.JPG*           | Transfered via Apple File Conduit over USB
